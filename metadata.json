@@ -1,0 +1,6 @@
+{
+  "name": "GD Studio — Trình tạo & mã hóa level Geometry Dash",
+  "description": "Trình chỉnh sửa trực quan, chơi thử vật lý thực tế, mã hóa dữ liệu level và xuất file .gmd cho Geometry Dash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
